@@ -2,7 +2,7 @@ data:extend({
   {
     type = "simple-entity",
     name = "decorative-entity",
-    icon = "__your-mod-name__/graphics/icons/decorative-item.png",
+    icon = "Factorio_runing_mod_0.1.0/graphics/icons/decorative-item.png",
     icon_size = 64,
     flags = {"placeable-neutral", "player-creation"},
     collision_box = {{-0.35, -0.35}, {0.35, 0.35}},
@@ -13,7 +13,7 @@ data:extend({
     },
     pictures = {
       {
-        filename = "__your-mod-name__/graphics/entity/decorative-item.png",
+        filename = "Factorio_runing_mod_0.1.0/graphics/entity/decorative-item.png",
         width = 64,
         height = 64,
         scale = 0.5
