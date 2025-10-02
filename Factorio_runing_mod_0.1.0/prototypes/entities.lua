@@ -13,7 +13,7 @@ data:extend({
     },
     pictures = {
       {
-        filename = "Factorio_runing_mod_0.1.0/graphics/entity/decorative-item.png",
+        filename = "Factorio_runing_mod_0.1.0/graphics/entities/decorative-item.png",
         width = 64,
         height = 64,
         scale = 0.5
