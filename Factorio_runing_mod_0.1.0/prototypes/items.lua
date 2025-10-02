@@ -2,7 +2,7 @@ data:extend({
   {
     type = "item",
     name = "decorative-item",
-    icon = "__your-mod-name__/graphics/icons/decorative-item.png",
+    icon = "Factorio_runing_mod_0.1.0/graphics/icons/decorative-item.png",
     icon_size = 64,
     subgroup = "terrain",
     order = "b[decorative]",
