@@ -1,11 +1,11 @@
 {
   "name": "double_running_speed",
   "version": "0.1.0",
-  "title": "Удвоенная скорость бега",
+  "title": "Удвоенная скорость бега и шестерня",
   "author": "Mandarin",
   "contact": "",
   "homepage": "",
   "factorio_version": "2.0",
   "dependencies": ["base >= 1.1"],
-  "description": "Этот мод удваивает скорость бега персонажа."
+  "description": "Этот мод удваивает скорость бега персонажа и добовляет шестерня."
 }
