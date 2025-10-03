@@ -1,0 +1,1 @@
+data.raw["item"]["iron-plate"].fuel_value = 10
