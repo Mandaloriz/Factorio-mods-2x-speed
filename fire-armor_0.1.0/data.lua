@@ -46,4 +46,4 @@ local recipe = {
 }
 
 data:extend{fireArmor, recipe}
-data.raw["item"]["iron-plate"].fuel_value = 10
+data.raw["item"]["iron-plate"].fuel_value = "10MJ"
