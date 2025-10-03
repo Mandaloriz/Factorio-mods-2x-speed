@@ -1,0 +1,11 @@
+{
+  "name": "my-item-mod",
+  "version": "0.1.0",
+  "title": "My Item Mod",
+  "author": "Your Name",
+  "contact": "",
+  "homepage": "",
+  "description": "Adds a new item to the game.",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 1.1"]
+}
