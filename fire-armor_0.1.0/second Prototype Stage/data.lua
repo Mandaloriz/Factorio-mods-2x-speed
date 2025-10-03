@@ -46,28 +46,3 @@ local recipe = {
 }
 
 data:extend{fireArmor, recipe}
-
-local ironfuel = table.deepcopy(data.raw["item"]["iron-plate"])
-
-ironfuel.name = "zxc"
-ironfuel.icons = {
-  {
-    icon = ironfuel.icon,
-    icon_size = ironfuel.icon_size,
-    tint = {r=1,g=0,b=0,a=0}
-
-  },
-}
-
-local recipe = {
-  type = "recipe",
-  name = "ironfuel",
-  enabled = ture,
-  energy_required = 1,
-  ingridients = {
-    {type = "item", name "steel-plate", amount = 1}
-  },
-  results = {{type = "items", name = "ironfuel", amount = 100}}
-
-}
-data:extend{ironfuel, recipe}
