@@ -58,7 +58,7 @@ ironfuel.icons = {
 
   },
 }
-ironfuel.fuel
+
 local recipe = {
   type = "recipe",
   name = "ironfuel",
