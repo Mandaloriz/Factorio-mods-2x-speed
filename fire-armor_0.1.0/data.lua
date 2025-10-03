@@ -58,3 +58,16 @@ ironfuel.icons = {
 
   },
 }
+ironfuel.fuel
+local recipe = {
+  type = "recipe",
+  name = "ironfuel",
+  enabled = ture,
+  energy_required = 1,
+  ingridients = {
+    {type = "item", name "steel-plate", amount = 1}
+  },
+  results = {{type = "items", name = "ironfuel", amount = 100}}
+
+}
+data:extend{ironfuel, recipe}
