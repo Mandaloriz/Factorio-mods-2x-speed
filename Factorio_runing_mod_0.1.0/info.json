@@ -1,13 +1,9 @@
 {
-  "name": "Factorio_runing_mod",
+  "name": "fire-armor",
   "version": "0.1.0",
-  "title": "Удвоенная скорость бега и шестерня",
-  "author": "Mandarin,Mhofff",
-  "contact": "",
-  "homepage": "",
+  "title": "Fire Armor",
+  "author": "You",
   "factorio_version": "2.0",
-  "dependencies": ["base >= 1.1"],
-  "description": "Этот мод удваивает скорость бега персонажа и добовляет шестерня."
-
-  
+  "dependencies": ["base >= 2.0"],
+  "description": "This mod adds in fire armor that leaves behind damaging fire as you walk around."
 }
