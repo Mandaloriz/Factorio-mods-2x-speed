@@ -46,3 +46,17 @@ local recipe = {
 }
 
 data:extend{fireArmor, recipe}
+
+data:extend({
+{
+ type = "item",
+ name = "my-first-item",
+ icon = "__my-item-mod__/graphics/icons/my-first-item.png",
+ subgroup = "raw-material",
+ order = "a[my-first-item]",
+ stack_size = 50,
+ include_fuel = true,
+ fuel_value = "1000W",
+ fuel_category = "chemical"
+}
+})
